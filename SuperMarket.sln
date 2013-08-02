@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket", "SuperMarket\SuperMarket.csproj", "{71DBF862-9BD2-444D-8D06-AA24127888A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceCalculator", "PriceCalculator\PriceCalculator.csproj", "{88E2B26F-D441-4691-B0BB-E8747D8929B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPriceCalculator", "TestPriceCalculator\TestPriceCalculator.csproj", "{923BF740-7F1D-4EA2-983D-8837693540EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DBF862-9BD2-444D-8D06-AA24127888A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DBF862-9BD2-444D-8D06-AA24127888A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DBF862-9BD2-444D-8D06-AA24127888A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DBF862-9BD2-444D-8D06-AA24127888A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E2B26F-D441-4691-B0BB-E8747D8929B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E2B26F-D441-4691-B0BB-E8747D8929B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E2B26F-D441-4691-B0BB-E8747D8929B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E2B26F-D441-4691-B0BB-E8747D8929B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923BF740-7F1D-4EA2-983D-8837693540EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923BF740-7F1D-4EA2-983D-8837693540EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923BF740-7F1D-4EA2-983D-8837693540EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923BF740-7F1D-4EA2-983D-8837693540EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

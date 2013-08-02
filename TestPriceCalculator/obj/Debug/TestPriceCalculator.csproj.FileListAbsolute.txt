@@ -1,0 +1,21 @@
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\TestPriceCalculator\bin\Debug\TestPriceCalculator.dll
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\TestPriceCalculator\bin\Debug\TestPriceCalculator.pdb
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\TestPriceCalculator\bin\Debug\PriceCalculator.dll
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\TestPriceCalculator\bin\Debug\PriceCalculator.pdb
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.csprojResolveAssemblyReference.cache
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.dll
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.pdb
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\TestPriceCalculator\bin\Debug\TestPriceCalculator.dll
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\TestPriceCalculator\bin\Debug\TestPriceCalculator.pdb
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\TestPriceCalculator\bin\Debug\PriceCalculator.dll
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\TestPriceCalculator\bin\Debug\PriceCalculator.pdb
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.dll
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.pdb
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\TestPriceCalculator\bin\Debug\TestPriceCalculator.dll
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\TestPriceCalculator\bin\Debug\TestPriceCalculator.pdb
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\TestPriceCalculator\bin\Debug\PriceCalculator.dll
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\TestPriceCalculator\bin\Debug\PriceCalculator.pdb
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.dll
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\TestPriceCalculator\obj\Debug\TestPriceCalculator.pdb

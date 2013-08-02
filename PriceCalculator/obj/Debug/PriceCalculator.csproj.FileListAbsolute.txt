@@ -1,0 +1,15 @@
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\PriceCalculator\bin\Debug\PriceCalculator.dll
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\PriceCalculator\bin\Debug\PriceCalculator.pdb
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.csprojResolveAssemblyReference.cache
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.dll
+c:\users\philip.schoeman.propmaven\documents\visual studio 2012\Projects\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.pdb
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\PriceCalculator\bin\Debug\PriceCalculator.dll
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\PriceCalculator\bin\Debug\PriceCalculator.pdb
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.dll
+C:\Users\dev01\Documents\Work Item Templates\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.pdb
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\PriceCalculator\bin\Debug\PriceCalculator.dll
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\PriceCalculator\bin\Debug\PriceCalculator.pdb
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.dll
+C:\Users\philip.schoeman.PROPMAVEN\Documents\Code\SuperMarket\PriceCalculator\obj\Debug\PriceCalculator.pdb
